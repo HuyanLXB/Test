@@ -1,2 +1,6 @@
 use git
-Creating a branch is quick feature
+<<<<<<< HEAD
+Creating a branch is quick mode and feature
+=======
+Creating a branch is quick mode and feature
+>>>>>>> dev
