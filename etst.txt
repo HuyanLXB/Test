@@ -1,6 +1,2 @@
-use git
-<<<<<<< HEAD
-Creating a branch is quick mode and feature
-=======
-Creating a branch is quick mode and feature
->>>>>>> dev
+use gitgit
+git fuck
